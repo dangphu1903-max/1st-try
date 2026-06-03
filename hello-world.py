@@ -1,2 +1,4 @@
 print ("Hello, World!")
 print ("Welcome to Python programming.")
+print ("Hello, hello, hello!")
+print ("This is a test message.")
